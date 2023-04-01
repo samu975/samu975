@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to implement the clean code in my projects.
 - 👯 I’m looking to collaborate on frontend proyects.
 - 😄 Pronouns: Proactive, carismatic, funny, always learning, stoic.
 - ⚡ Fun fact: I'm also historian so if you want to talk about history, politics or conspirancy theories. Feel free to contact me.
